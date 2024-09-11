@@ -798,6 +798,7 @@ img {
 .portfolio__title {
   font-size: var(--h3-font-size); /* Adjust title font size */
   text-align: center; /* Center title */
+  color: #000;
 }
 
 .portfolio__description {
