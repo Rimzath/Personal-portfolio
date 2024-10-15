@@ -542,9 +542,12 @@ img {
   width: 70%;
 }
 
+.skills__c# {
+  width: 90%;
+}
 
 .skills__java {
-  width: 70%;
+  width: 90%;
 }
 
 .skills__sql {
