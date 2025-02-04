@@ -1309,4 +1309,18 @@ img {
 }
 
 }
+.solo-contribution {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+.solo-contribution span {
+  background-color: #504f4f; /* Highlight color (Orange-Red) */
+  color: white;
+  font-weight: bold;
+  padding: 1px 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
 
